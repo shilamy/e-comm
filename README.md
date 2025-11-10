@@ -4,7 +4,7 @@
 **Frontend:** HTML5, CSS, JavaScript (Bootstrap or Tailwind)  
 **Database:** MySQL  
 
----
+
 
 ## Phase 1: Conceptualization & Setup (Nov 1 – Nov 3, 2025 | 3 days)
 
@@ -14,7 +14,7 @@
 - Finalize technology stack and folder structure.  
 - Initialize project files and MySQL database.  
 
----
+
 
 ## Phase 2: Core Development Sprints (Nov 4 – Nov 26, 2025)
 
@@ -26,7 +26,6 @@
 - Role-based access control (Admin, Customer).  
 - Database schema for users and roles.  
 
----
 
 ### Sprint 2: Product Management (Nov 10 – Nov 14)
 **Deliverables:**
@@ -44,7 +43,7 @@
 - Product detail page with description and basic reviews section.  
 - Add-to-cart functionality using sessions.  
 
----
+
 
 ### Sprint 4: Shopping Cart & Checkout (Nov 20 – Nov 24)
 **Deliverables:**
@@ -53,7 +52,7 @@
 - Simulated payment integration (mock gateway).  
 - Order confirmation and summary page.  
 
----
+
 
 ## Phase 3: Deployment & Testing (Nov 25 – Nov 30, 2025)
 
@@ -63,7 +62,6 @@
 - Collect initial feedback.  
 - Final documentation (README + system manual).  
 
----
-https://github.com/KNShelly/E-Commerce/tree/greattoseeyoutoo-patch-1
+
 **Duration:** 1 Month  
 **Goal:** Deliver a functional
